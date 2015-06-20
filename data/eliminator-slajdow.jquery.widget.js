@@ -50,7 +50,7 @@
         },
         pages: [
             {   trigger: "body#oficjalna_strona_eliminatora_slajdow",
-                name: "OFICJALNA STRONA ELIMINATORA SLAJDÓW",
+                name: "Official Home Page of Slide Eliminator",
                 regressionUrls: ["http://eliminator-slajdow.herokuapp.com/"],
                 pageType: "0",
                 navigationNextULRSelector: "",

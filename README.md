@@ -1,29 +1,31 @@
-Eliminator Slajdow - Firefox extension
+Slide Eliminator - Firefox extension (en-US)
 =========================
 
-Wersja dla Google Chrome dostępna na Chrome Web Store: https://chrome.google.com/webstore/detail/eliminator-slajd%C3%B3w/eplekpmdodlgejgogbojajncdlapamff?hl=pl
+Google Chrome version (original Polish) available on the Chrome Web Store: https://chrome.google.com/webstore/detail/eliminator-slajd%C3%B3w/eplekpmdodlgejgogbojajncdlapamff?hl=pl
 
-Wersja Dla Firefox https://addons.mozilla.org/pl/firefox/addon/eliminator-slajdow/
+For (original Polish) Firefox Version https://addons.mozilla.org/pl/firefox/addon/eliminator-slajdow/
 
-Fanpage na Facebooku https://www.facebook.com/eliminator.slajdow?ref=github.com/maestr0/eliminator-slajdow-chrome
+Facebook Page: https://www.facebook.com/eliminator.slajdow?ref=github.com/maestr0/eliminator-slajdow-chrome
 
-Jeśli podoba Ci się ten dodatek możesz przekazać mi parę złotych w nagrodę poprzez PayPal
+If you like this add-on you can give me a pair of gold as a reward through PayPal
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SMS8WQBP3DU4N
 
-Wszelkie sugestię proszę zgłaszać na
+Any suggestion please report to
 
 https://eliminator-slajdow.sugester.pl/
 
 
 FAQ
 
-    Kiedy będzie wersja dla Operay i IE ?
-        - NIE zamierzam tworzyć ES dla innych przeglądarek niż Chrome i Firefox
+    When will the version for Operay and IE?
+        - I DO NOT intend to create ES for other browsers than Chrome and Firefox
 
-    Kiedy zostanie dodana obsługa nowych portali np. Onet lub WP ?
-        - pracuję nad tym. Nowe portale będą dodawane sukcesywnie w 2014 roku.
+    When you add support for new portals such. Onet and WP?
+        - I'm working on it. The new portals will be added gradually in 2014.
 
-Autor: Paweł Raszewski (raszewski@gmail.com)
+Author: Paul Raszewski (raszewski@gmail.com)
 
-Licencja: GNU GPL v3 http://www.gnu.org/licenses/gpl.html
+Translated into English by rn10950 (Rough machine translations used, provided by Google Translate)
+
+License: GNU GPL v3 http://www.gnu.org/licenses/gpl.html
