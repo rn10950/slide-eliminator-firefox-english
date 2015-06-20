@@ -26,6 +26,8 @@ FAQ
 
 Author: Paul Raszewski (raszewski@gmail.com)
 
-Translated into English by rn10950 (Rough machine translations used, provided by Google Translate)
+Translated into English by [rn10950](http://www.reddit.com/u/rn10950) (Rough machine translations used, provided by Google Translate)
+
+Please open up issues for any English sites you want to add to the portal.
 
 License: GNU GPL v3 http://www.gnu.org/licenses/gpl.html
